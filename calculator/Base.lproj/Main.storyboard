@@ -240,36 +240,6 @@
                         </variation>
                     </view>
                 </viewController>
-                <stackView opaque="NO" contentMode="scaleToFill" spacing="21" id="MBy-cu-krP">
-                    <rect key="frame" x="0.0" y="0.0" width="168" height="42"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <subviews>
-                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Feg-R0-YGk">
-                            <rect key="frame" x="0.0" y="0.0" width="42" height="42"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="42" id="joq-Y3-FFi"/>
-                                <constraint firstAttribute="height" constant="42" id="nUz-Kn-LXL"/>
-                            </constraints>
-                            <state key="normal" image="7"/>
-                        </button>
-                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jts-dt-dc8">
-                            <rect key="frame" x="63" y="0.0" width="42" height="42"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="42" id="Ely-Qa-uM7"/>
-                                <constraint firstAttribute="height" constant="42" id="lZb-ul-w7h"/>
-                            </constraints>
-                            <state key="normal" image="8"/>
-                        </button>
-                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6h3-pu-JK4">
-                            <rect key="frame" x="126" y="0.0" width="42" height="42"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="42" id="kxg-F7-gcz"/>
-                                <constraint firstAttribute="height" constant="42" id="xui-ZN-1Qe"/>
-                            </constraints>
-                            <state key="normal" image="9"/>
-                        </button>
-                    </subviews>
-                </stackView>
                 <stackView opaque="NO" contentMode="scaleToFill" spacing="21" id="4f6-CA-cMy">
                     <rect key="frame" x="0.0" y="0.0" width="168" height="42"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
