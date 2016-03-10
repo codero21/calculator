@@ -12,6 +12,7 @@
 		E33B08801C913DA10008B979 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33B087E1C913DA10008B979 /* Main.storyboard */; };
 		E33B08821C913DA10008B979 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E33B08811C913DA10008B979 /* Assets.xcassets */; };
 		E33B08851C913DA10008B979 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33B08831C913DA10008B979 /* LaunchScreen.storyboard */; };
+		E3FED6111C91C354009C952C /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3FED6101C91C354009C952C /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E33B08811C913DA10008B979 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E33B08841C913DA10008B979 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E33B08861C913DA10008B979 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3FED6101C91C354009C952C /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		E33B08791C913DA10008B979 /* calculator */ = {
 			isa = PBXGroup;
 			children = (
+				E3FED6101C91C354009C952C /* Minecraft.ttf */,
 				E33B087A1C913DA10008B979 /* AppDelegate.swift */,
 				E33B087C1C913DA10008B979 /* ViewController.swift */,
 				E33B087E1C913DA10008B979 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				E33B08851C913DA10008B979 /* LaunchScreen.storyboard in Resources */,
 				E33B08821C913DA10008B979 /* Assets.xcassets in Resources */,
+				E3FED6111C91C354009C952C /* Minecraft.ttf in Resources */,
 				E33B08801C913DA10008B979 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,6 +288,7 @@
 				E33B088B1C913DA10008B979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
