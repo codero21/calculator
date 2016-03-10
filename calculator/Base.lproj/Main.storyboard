@@ -240,36 +240,6 @@
                         </variation>
                     </view>
                 </viewController>
-                <stackView opaque="NO" contentMode="scaleToFill" spacing="21" id="4f6-CA-cMy">
-                    <rect key="frame" x="0.0" y="0.0" width="168" height="42"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <subviews>
-                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BwH-gR-6Sx">
-                            <rect key="frame" x="0.0" y="0.0" width="42" height="42"/>
-                            <constraints>
-                                <constraint firstAttribute="height" constant="42" id="49C-pD-nQi"/>
-                                <constraint firstAttribute="width" constant="42" id="XUp-OB-bkS"/>
-                            </constraints>
-                            <state key="normal" image="7"/>
-                        </button>
-                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iCy-MB-JJj">
-                            <rect key="frame" x="63" y="0.0" width="42" height="42"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="42" id="2r9-cZ-6Hn"/>
-                                <constraint firstAttribute="height" constant="42" id="S9t-1q-Ioo"/>
-                            </constraints>
-                            <state key="normal" image="8"/>
-                        </button>
-                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5ku-2x-EP5">
-                            <rect key="frame" x="126" y="0.0" width="42" height="42"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="42" id="FvP-Od-BgC"/>
-                                <constraint firstAttribute="height" constant="42" id="zNw-xG-0FH"/>
-                            </constraints>
-                            <state key="normal" image="9"/>
-                        </button>
-                    </subviews>
-                </stackView>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="511" y="451"/>
